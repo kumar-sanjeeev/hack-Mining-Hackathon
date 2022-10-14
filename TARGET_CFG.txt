@@ -1,0 +1,7 @@
+# This File can be read by the start script when placing it in the directory of the board
+Target=00_00_00_01_F2_DC
+Range_Amount=20
+Sync_Word=1
+Reset=False
+Save=False
+# End
